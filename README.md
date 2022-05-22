@@ -8,7 +8,7 @@
 * [x] 🏠 An awesome [homepage](https://boring-plans.github.io/)
 * [x] 📜 Rebuild [blog site](https://boring-plans.github.io/boring-blogs)
 * [ ] 🎯 DDT Sharp Shooter
-* [ ] 📅 [Boring Days](https://boring-plans.github.io/boring-days)
+* [x] 📅 [Boring Days](https://boring-plans.github.io/boring-days)
 * [ ] ...
 
 
