@@ -7,7 +7,7 @@
 * [ ] 🏢 Frontend Library: A site contains many front-end knowledge (and other shits related)
 * [x] 🏠 An awesome [homepage](https://boring-plans.github.io/)
 * [x] 📜 Rebuild [blog site](https://boring-plans.github.io/boring-blogs)
-* [x] 🎯 DDT Sharp Shooter
+* [x] 🎯 [DDT Sharp Shooter](https://boring-plans.github.io/ddt-sharp-shooter)
 * [x] 📅 [Boring Days](https://boring-plans.github.io/boring-days)
 * [ ] ...
 
