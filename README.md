@@ -9,6 +9,7 @@
 * [x] 📜 Rebuild [blog site](https://boring-plans.github.io/boring-blogs)
 * [x] 🎯 [DDT Sharp Shooter](https://github.com/boring-plans/ddt-sharp-shooter)
 * [x] 📅 [Boring Days](https://boring-plans.github.io/boring-days)
+* [ ] 🔧 Boring Tools: Online tools
 * [ ] ...
 
 
