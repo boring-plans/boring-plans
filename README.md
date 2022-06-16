@@ -1,7 +1,7 @@
 ### Hi another carbon based living being  👋
 
 
-#### Things to kill 2022 👇
+#### Boring plans in 2020
 
 * [ ] 🛞 Titan Admin (after Vuetify 3 released)
 * [ ] 🏢 Frontend Library: A site contains many front-end knowledge (and other shits related)
@@ -9,7 +9,7 @@
 * [x] 📜 Rebuild [blog site](https://boring-plans.github.io/boring-blogs)
 * [x] 🎯 [DDT Sharp Shooter](https://github.com/boring-plans/ddt-sharp-shooter)
 * [x] 📅 [Boring Days](https://boring-plans.github.io/boring-days)
-* [ ] 🔧 Boring Tools: Online tools
+* [ ] 🔧 Boring Tools: Online tools                               
 * [ ] ...
 
 
