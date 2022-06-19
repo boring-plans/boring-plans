@@ -1,7 +1,7 @@
 ### Hi another carbon based living being  👋
 
 
-#### Boring plans in 2020
+#### Boring plans in 2022
 
 * [ ] 🛞 Titan Admin (after Vuetify 3 released)
 * [ ] 🏢 Frontend Library: A site contains many front-end knowledge (and other shits related)
