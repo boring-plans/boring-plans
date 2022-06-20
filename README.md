@@ -3,7 +3,7 @@
 
 #### Boring plans in 2022
 
-* [ ] 🛞 Titan Admin (after Vuetify 3 released)
+* [ ] 🛞 Titan Admin
 * [ ] 🏢 Frontend Library: A site contains many front-end knowledge (and other shits related)
 * [x] 🏠 An awesome [homepage](https://boring-plans.github.io/)
 * [x] 📜 Rebuild [blog site](https://boring-plans.github.io/boring-blogs)
