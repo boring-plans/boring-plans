@@ -4,7 +4,7 @@
 #### Boring plans in 2022
 
 * [ ] 🛞 Titan Admin
-* [ ] 🏢 Frontend Library: A site contains many front-end knowledge (and other shits related)
+* [ ] 📕 Frontend cook book
 * [x] 🏠 An awesome [homepage](https://boring-plans.github.io/)
 * [x] 📜 Rebuild [blog site](https://boring-plans.github.io/boring-blogs)
 * [x] 🎯 [DDT Sharp Shooter](https://github.com/boring-plans/ddt-sharp-shooter)
